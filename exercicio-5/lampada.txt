@@ -1,0 +1,4 @@
+1) Acenderia um interruptor e iria para a sala ver qual lâmpada está acesa.
+2)voltaria apagaria o primeiro interruptor e acenderia um segundo e voltaria nas salas das lâmpadas.
+3) Veria qual lâmpada acendeu e relacionaria com o interruptor que acendi.
+4) a lâmpada que ficou apagada é do interruptor que não foi tocado.
